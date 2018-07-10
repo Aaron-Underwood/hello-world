@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi Humans!
+
+Aaron here, I am starting my github adventure!
